@@ -1,0 +1,26 @@
+on:
+  push:
+    branches: [ "main", "task01" ]
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Проверка исходного кода
+      uses: actions/checkout@v4
+
+    - name: Установка .NET SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0
+
+    - name: Восстановление зависимостей (Restore)
+      run: dotnet restore practice2025.sln
+
+    - name: Сборка проекта (Build)
+      run: dotnet build practice2025.sln --no-restore --configuration Release
+
+    - name: Запуск тестов (Test)
+      run: dotnet test practice2025.sln --no-build --verbosity normal
