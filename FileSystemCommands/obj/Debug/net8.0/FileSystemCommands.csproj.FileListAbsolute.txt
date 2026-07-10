@@ -1,0 +1,16 @@
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/bin/Debug/net8.0/FileSystemCommands.deps.json
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/bin/Debug/net8.0/FileSystemCommands.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/bin/Debug/net8.0/FileSystemCommands.pdb
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/bin/Debug/net8.0/CommandLib.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/bin/Debug/net8.0/CommandLib.pdb
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.csproj.AssemblyReference.cache
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.GeneratedMSBuildEditorConfig.editorconfig
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.AssemblyInfoInputs.cache
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.AssemblyInfo.cs
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.csproj.CoreCompileInputs.cache
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.sourcelink.json
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.csproj.CopyComplete
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/refint/FileSystemCommands.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/FileSystemCommands.pdb
+/home/erna/projects/practice_2026/Erna_practice_2026/FileSystemCommands/obj/Debug/net8.0/ref/FileSystemCommands.dll
