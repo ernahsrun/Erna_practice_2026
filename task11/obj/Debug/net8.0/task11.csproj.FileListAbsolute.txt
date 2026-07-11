@@ -1,0 +1,13 @@
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/bin/Debug/net8.0/task11.deps.json
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/bin/Debug/net8.0/task11.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/bin/Debug/net8.0/task11.pdb
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.GeneratedMSBuildEditorConfig.editorconfig
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.AssemblyInfoInputs.cache
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.AssemblyInfo.cs
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.csproj.CoreCompileInputs.cache
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.sourcelink.json
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/refint/task11.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.pdb
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/ref/task11.dll
+/home/erna/projects/practice_2026/Erna_practice_2026/task11/obj/Debug/net8.0/task11.csproj.AssemblyReference.cache

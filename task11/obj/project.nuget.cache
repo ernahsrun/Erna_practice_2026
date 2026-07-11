@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dcqp/OXwhkO2g8QPfrKmTo6OJ8cXgdBZyhpjxHTZfrNXrcBCsy6oKGEFRWDDxEN2gw/Yhmje5b4lcUaP2Tw5Og==",
+  "success": true,
+  "projectFilePath": "/home/erna/projects/practice_2026/Erna_practice_2026/task11/task11.csproj",
+  "expectedPackageFiles": [
+    "/home/erna/.nuget/packages/microsoft.codeanalysis.analyzers/5.3.0/microsoft.codeanalysis.analyzers.5.3.0.nupkg.sha512",
+    "/home/erna/.nuget/packages/microsoft.codeanalysis.common/5.6.0/microsoft.codeanalysis.common.5.6.0.nupkg.sha512",
+    "/home/erna/.nuget/packages/microsoft.codeanalysis.csharp/5.6.0/microsoft.codeanalysis.csharp.5.6.0.nupkg.sha512",
+    "/home/erna/.nuget/packages/system.collections.immutable/10.0.1/system.collections.immutable.10.0.1.nupkg.sha512",
+    "/home/erna/.nuget/packages/system.reflection.metadata/10.0.1/system.reflection.metadata.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
