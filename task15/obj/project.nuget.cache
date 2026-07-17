@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GcO5FVC4NbjM91d1YqiSPfaAkbDDqT5ob9HOYDqCaMxC9x6kVEhQYt0ogiabwb1rSn2eRCP353E3abaZLqggvg==",
+  "success": true,
+  "projectFilePath": "/home/erna/projects/practice_2026/Erna_practice_2026/task15/task15.csproj",
+  "expectedPackageFiles": [
+    "/home/erna/.nuget/packages/scottplot/5.0.21/scottplot.5.0.21.nupkg.sha512",
+    "/home/erna/.nuget/packages/skiasharp/2.88.8/skiasharp.2.88.8.nupkg.sha512",
+    "/home/erna/.nuget/packages/skiasharp.nativeassets.linux.nodependencies/2.88.8/skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "/home/erna/.nuget/packages/skiasharp.nativeassets.macos/2.88.8/skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "/home/erna/.nuget/packages/skiasharp.nativeassets.win32/2.88.8/skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}
